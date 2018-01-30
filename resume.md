@@ -1,14 +1,12 @@
 Jayme Ramsay
 ============
 
-<p>Austin, TX 78723 <br>           
+Austin, TX 78723 <br>           
 jayme.ramsay@gmail.com <br>
 737-701-1012 <br> 
-</p>  
------------------
 linkedIn: [jayme-ramsay](https://www.linkedin.com/in/jayme-ramsay/) <br>
 Github: [jaymeramsay](https://github.com/jaymeramsay)
------------------
+
 
 Summary
 ---------

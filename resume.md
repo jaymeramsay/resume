@@ -5,8 +5,10 @@ Jayme Ramsay
 jayme.ramsay@gmail.com <br>
 737-701-1012 <br> 
 </p>  
+-----------------
 linkedIn: [jayme-ramsay](https://www.linkedin.com/in/jayme-ramsay/) <br>
 Github: [jaymeramsay](https://github.com/jaymeramsay)
+-----------------
 
 Summary
 ---------

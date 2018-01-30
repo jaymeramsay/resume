@@ -4,9 +4,9 @@ Jayme Ramsay
 <p>Austin, TX 78723 <br>           
 jayme.ramsay@gmail.com <br>
 737-701-1012 <br> 
+</p>  
 linkedIn: [jayme-ramsay](https://www.linkedin.com/in/jayme-ramsay/) <br>
 Github: [jaymeramsay](https://github.com/jaymeramsay)
-</p>
 
 Summary
 ---------
@@ -77,14 +77,14 @@ Education
 Experience
 ----------
 
-**Hanson Robotics, Austin, TX**							*January 2016 - May 2016*
-Creative Content Author
+**Hanson Robotics, Austin, TX**		:					*January 2016 - May 2016* <br>
+Creative Content Author <br>
 * Collaborated with a team of actors to create and record human interactions that inspired AI robotic content authoring. 
 * Produced hours of improvised theatrical material that influenced the Sophia bot. 
 * Succeeded at learning computer software to mechanically puppet a Philip K. Dick robot. 
 
-**The Montessori Center, Austin, TX**				 *October 2009 - June 2015*
-Lead Teacher
+**The Montessori Center, Austin, TX**		:		 *October 2009 - June 2015* <br>
+Lead Teacher <br>
 * Effectively solved problems in an ever-changing, high-stakes environment. 
 * Trained and motivated a small team of assistants to shape afternoon activities and daily routine.
 * Integrated a philosophy of natural human development and practice that bettered my overall communication and collaborative skills.

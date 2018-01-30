@@ -28,6 +28,7 @@ Projects
 
 **Put Clothes on Things**
 :			September 2017
+<br>
 A front-end application that allows the client to dress various image templates with clothing, accessories, and greetings, 
 providing a creative way to spend time and send electronic gifts to friends.
 * Technologies: Node.js HTML/CSS/Javascript, Bootstrap, HTML5 Canvas, Konva.js, Heroku. 
@@ -36,6 +37,7 @@ providing a creative way to spend time and send electronic gifts to friends.
 
 **Murality Austin**
 :			October 2017
+<br>
 A full-stack application that allows the client to search for murals and mural artists in various neighborhoods in the Austin area. 
 Clients can also create accounts and add new murals and artists to the Murality database as well as find generated mural tours relative
 to their location or neighborhood. 
@@ -44,12 +46,14 @@ to their location or neighborhood.
 
 **Headspace**
 :			December 2017
+<br>
 Headspace is a program that allows users to access, build, and organize their file system in virtual reality.
 * Technologies: C#, Unity IDE, Steam VR Plug-in 
 * View the Github repo [here](https://github.com/jaymeramsay/Headspace) 
 
 **Muster**
 :			January 2018
+<br>
 A full-stack web application that helps people budget for wish-list items by keeping track of salary and labor hours to acquire items.
 * Technologies: React, Node.js, Express, PostgresQL, Knex, Bcrypt, Amazon Wishlist API, Axios, Heroku
 * View the Github repo [here](https://github.com/jaymeramsay/Muster) 
